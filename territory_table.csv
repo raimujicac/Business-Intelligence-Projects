@@ -1,0 +1,31 @@
+﻿pk_territory;subterritorykey;territory_name;region;group_division;country;city_name;bike_lanes_km;protected_bike_lanes_km
+NWUSAPortland;NWUSA;Northwest;United States;North America;United States;Portland;643,738;80,432
+NWUSASeattle;NWUSA;Northwest;United States;North America;United States;Seattle;673,789;123,542
+NWUSASan Francisco;NWUSA;Northwest;United States;North America;United States;San Francisco;720,986;263,712
+NEUSAAugusta;NEUSA;Northeast;United States;North America;United States;Augusta;468,012;53,912
+NEUSAWashington DC;NEUSA;Northeast;United States;North America;United States;Washington DC;273,589;68,293
+NEUSANew York;NEUSA;Northeast;United States;North America;United States;New York;724,32;163,212
+CTUSADenver;CTUSA;Central;United States;North America;United States;Denver;315,431;51,931
+CTUSAOklahoma City;CTUSA;Central;United States;North America;United States;Oklahoma City;380,489;73,212
+CTUSALincoln;CTUSA;Central;United States;North America;United States;Lincoln;260,912;32,312
+SWUSAPhoenix;SWUSA;Southwest;United States;North America;United States;Phoenix;312,654;34,123
+SWUSASalt Lake City;SWUSA;Southwest;United States;North America;United States;Salt Lake City;182,499;12,341
+SWUSAAlburqueque;SWUSA;Southwest;United States;North America;United States;Alburqueque;350,972;32,421
+SEUSANashville;SEUSA;Southeast;United States;North America;United States;Nashville;329,864;47,912
+SEUSAMiami;SEUSA;Southeast;United States;North America;United States;Miami;1010,287;10,321
+SEUSAAtlanta;SEUSA;Southeast;United States;North America;United States;Atlanta;267,828;13,412
+CANToronto;CAN;Canada;Canada;North America;Canada;Toronto;852,952;378,912
+CANMontreal;CAN;Canada;Canada;North America;Canada;Montreal;727,361;571,234
+CANCalgary;CAN;Canada;Canada;North America;Canada;Calgary;471,321;127,423
+FRParis;FR;France;France;Europe;France;Paris;753,812;78,123
+FRMarseille;FR;France;France;Europe;France;Marseille;341,234;32,812
+FRLyon;FR;France;France;Europe;France;Lyon;632,231;7,312
+DEBerlin;DE;Germany;Germany;Europe;Germany;Berlin;912,314;290,123
+DEHamburg;DE;Germany;Germany;Europe;Germany;Hamburg;731,712;547,962
+DEMunich;DE;Germany;Germany;Europe;Germany;Munich;682,318;258,962
+AUSydney ;AU;Australia;Australia;Pacific;Australia;Sydney ;223,819;19,847
+AUMelbourne;AU;Australia;Australia;Pacific;Australia;Melbourne;230,341;25,839
+AUBrisbane;AU;Australia;Australia;Pacific;Australia;Brisbane;182,821;12,957
+UKLondon;UK;United Kingdom;United Kingdom;Europe;United Kingdom;London;268,919;116,654
+UKBirmingham;UK;United Kingdom;United Kingdom;Europe;United Kingdom;Birmingham;162,431;16,439
+UKGlasgow;UK;United Kingdom;United Kingdom;Europe;United Kingdom;Glasgow;257,495;51,654
